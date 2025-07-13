@@ -1,5 +1,3 @@
-بالتأكيد، إليك الترجمة الكاملة والاحترافية للنص باللغة الإنجليزية لوضعه في ملف README.md.
-
 Smart IPTV v1.0
 Smart IPTV is an open-source desktop program designed for playing IPTV links (such as M3U and Xtream Codes) in a simple and fast way.
 
