@@ -1,7 +1,12 @@
-🔐 Privacy Policy / سياسة الخصوصية
+ 🔐 Privacy Policy / سياسة الخصوصية
+ 
 English Version
+
 Privacy Policy for Smart IPTV Program
+
 Last updated: July 9, 2025
+
+
 
 Thank you for using our program. Your privacy is important to us.
 
