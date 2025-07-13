@@ -26,7 +26,7 @@ Run the Smart_IPTV.exe file (or its equivalent).
 Note: The program does not contain any pre-loaded channels or playlists. Users must provide their own links.
 
 🔐 Privacy Policy
-We do not collect or store any personal information. You can read the full Privacy Policy here: 
+We do not collect or store any personal information. You can read the full Privacy Policy here: [Privacy Policy](PRIVACY.md)
 
 ⚠️ Legal Disclaimer
 We are not responsible for any content accessed through links added by the user. Please use this program in accordance with the applicable laws in your country.
@@ -68,7 +68,7 @@ Smart IPTV هو برنامج مكتبي مفتوح المصدر مخصص لتش�
 
 ## 🔐 سياسة الخصوصية
 
-نحن لا نجمع أو نخزن أي معلومات شخصية. يمكنك قراءة سياسة الخصوصية الكاملة هنا: [Privacy Policy](link-if-available)
+نحن لا نجمع أو نخزن أي معلومات شخصية. يمكنك قراءة سياسة الخصوصية الكاملة هنا: [Privacy Policy](PRIVACY.md)
 
 ## ⚠️ المسؤولية القانونية
 
