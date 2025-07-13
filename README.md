@@ -1,9 +1,10 @@
+بالتأكيد، إليك الترجمة الكاملة والاحترافية للنص باللغة الإنجليزية لوضعه في ملف README.md.
+
 Smart IPTV v1.0
-Smart IPTV is an open-source desktop program dedicated to playing IPTV links (such as M3U and Xtream Codes) in a simple and fast way.
+Smart IPTV is an open-source desktop program designed for playing IPTV links (such as M3U and Xtream Codes) in a simple and fast way.
 
 🧠 Key Features
-
-Play M3U links and local IPTV files.
+Play M3U links and IPTV files.
 
 Support for logging in via Xtream Codes.
 
@@ -16,23 +17,22 @@ Free of spyware or user tracking.
 Supports integrated ads (for project funding only).
 
 📦 Installation
-
 Download the compressed file from the Releases section.
 
 Unzip the file.
 
-Run the Smart IPTV.exe file (or its equivalent).
+Run the Smart_IPTV.exe file (or its equivalent).
 
-Note: The program does not contain any pre-loaded channels or playlists. The user must provide their own links.
+Note: The program does not contain any pre-loaded channels or playlists. Users must provide their own links.
 
 🔐 Privacy Policy
-We do not collect or store any personal information. You can read the full Privacy Policy in the app.
+We do not collect or store any personal information. You can read the full Privacy Policy here: 
 
 ⚠️ Legal Disclaimer
 We are not responsible for any content accessed through links added by the user. Please use this program in accordance with the applicable laws in your country.
 
 💼 For Advertisers
-The program supports advertisements through custom pop-up windows after a certain number of user interactions, respecting the terms of use for all ad networks.
+The program supports ads via custom pop-up windows after a certain number of interactions, while respecting the terms of use for all ad networks.
 
 💡 Technology
 This program was developed in Python using libraries such as:
@@ -42,7 +42,7 @@ Tkinter
 python-vlc
 
 📩 Contact Us
-For any inquiries or technical support, please get in touch via the GitHub page or by email  (marckteam1@outlook.com)
+For any inquiries or technical support, please get in touch via the GitHub page or by email. (marckteam1@outlook.com)
 
 
 # Smart IPTV v1.0
